@@ -1,0 +1,34 @@
+	
+1	AG              AGI        
+data0   21239.2546    	20151.0  Mesma configuração do artigo 100 geraçoes
+data2	84052.80 	19096.0
+
+
+2	AG              AGI
+data0   18879.96        15995.0   200 geraçoes , melhrou consideravelmente porem esta demorando mais 
+data2	68035.4		16164.0
+
+3	AG              AGI
+data0  	16421.62        13724.0    400 geraçoes , Melhora ja não tão consideravel como a passada e esta demorando mais demorado
+data2 	45621.02  	12909.0		e o resultado na ag normal foi inconclusivel.
+
+4	AG              AGI
+data0   15698.58        11607.0
+data2	49670.94	12532.0	  700 geraçoes, a demora ja foi mais consideravel e a na data2 o resultado saiu pior na AG, e a AGI mostrou menos diferença nos resultados demorando muito maios 
+
+5	AG              AGI	   1000 geraçoes,domara grande comparada as outras na AGI e resultados piores em algusn testes na AGI
+data0   14141.97	10022.0		resultado na AG inconclusivel pois na data0 os resutados tiveram diferenças menores e no data2 os dados era quase aleatorios 
+data2	51418.56	12899.0
+
+6	AG              AGI	   800 geraçoes
+data0   14921.067	11311.0		
+data2	14149.44	11920.0	
+
+7	AG              AGI        
+data0  	24917.1		23536.0  50 geraçoes
+data2	86662.5		21271.0
+
+
+-foi mudado o crossover porem o resultado ou abaixou a qualidade ou se mateve no mesmo. 
+-foi mudado a infecção porem os resultados forma piores .
+-Ao auterar a mutação os resultados não expressarma uma media de melhora ou piora , os resultados foram quase aleatorios.
